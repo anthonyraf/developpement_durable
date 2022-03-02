@@ -1,5 +1,5 @@
 # Développement durable
-This is my first site made with html, css and some javascript. 
+This is my first website made with html, css and some javascript. 
 So it doesn't have a responsive design
 
 ## Link
